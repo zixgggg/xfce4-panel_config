@@ -50,8 +50,6 @@
         <value type="string" value="Fcitx"/>
       </property>
       <property name="known-legacy-items" type="array">
-        <value type="string" value="wi-fi 網路連線「tp-link_ax3000」在使用中：tp-link_ax3000 (58%)"/>
-        <value type="string" value="wi-fi 網路連線「tp-link_ax3000」在使用中：tp-link_ax3000 (61%)"/>
         <value type="string" value="networkmanager 面板程式"/>
       </property>
     </property>
