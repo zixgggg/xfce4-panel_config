@@ -23,7 +23,7 @@
         <value type="int" value="8"/>
         <value type="int" value="10"/>
       </property>
-      <property name="background-style" type="uint" value="1"/>
+      <property name="background-style" type="uint" value="0"/>
       <property name="background-rgba" type="array">
         <value type="double" value="0"/>
         <value type="double" value="0"/>
@@ -102,9 +102,9 @@
       <property name="favorites" type="array">
       </property>
       <property name="recent" type="array">
+        <value type="string" value="xfce-settings-manager.desktop"/>
         <value type="string" value="terminator.desktop"/>
         <value type="string" value="firefox-esr.desktop"/>
-        <value type="string" value="xfce-settings-manager.desktop"/>
       </property>
       <property name="default-category" type="int" value="1"/>
       <property name="view-mode" type="int" value="0"/>
